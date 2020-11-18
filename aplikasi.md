@@ -10,4 +10,7 @@
         - Room
         - Paging
         - Navigation Component
+    - Retrofit
+    - Glide
 
+    
