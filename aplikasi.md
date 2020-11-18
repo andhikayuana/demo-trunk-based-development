@@ -22,3 +22,5 @@
 - Logout
 - Pencarian Ojek
     - Rendering Google Map
+    - Pilih lokasi penjemputan
+    - Pilih lokasi tujuan antar
