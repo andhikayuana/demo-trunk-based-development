@@ -5,3 +5,9 @@
 - Android
 - Kotlin
 - MVVM
+- Library
+    - Jetpack
+        - Room
+        - Paging
+        - Navigation Component
+
