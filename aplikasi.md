@@ -14,3 +14,6 @@
     - Glide
     - Google Map SDK
     - Firebase Cloud Messaging SDK
+
+## Fitur
+- Splash
