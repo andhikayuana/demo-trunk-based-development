@@ -20,7 +20,12 @@
 - Login
     - Nomor HP
 - Logout
+<<<<<<< HEAD
 - Pencarian Ojek
     - Rendering Google Map
     - Pilih lokasi penjemputan
     - Pilih lokasi tujuan antar
+=======
+- Pencarian Taksi
+    - Rendering Google Map
+>>>>>>> [OJ-8] rendering google map pencarian taksi
